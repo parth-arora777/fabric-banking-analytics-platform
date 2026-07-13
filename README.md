@@ -402,29 +402,11 @@ Through this project I gained hands-on experience with:
 
 ---
 
-# 📷 Screenshots
-
-> Add screenshots here:
-
-- Architecture
-- Workspace
-- Pipeline
-- Bronze Notebook
-- Silver Notebook
-- Gold Notebook
-- Dataflow
-- SQL Endpoint
-- Dashboard Page 1
-- Dashboard Page 2
-- Dashboard Page 3
-
----
-
 # 👨‍💻 Author
 
 **Parth Arora**
 
-Data Analyst | Microsoft Fabric | Power BI | SQL | Python
+Data Analyst | Analytics Engineer | Microsoft Fabric | Power BI | SQL | Python | Azure
 
 📧 Email: work.aroraparth@gmail.com
 
